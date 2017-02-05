@@ -5,10 +5,10 @@ Section: Tweaks
 Maintainer: Simalary <harper.chris455@live.com>
 Architecture: iphoneos-arm
 Filename: debs/com.simalary.powercenter_0.0.1_iphoneos-arm.deb
-MD5sum: f8a3a3440f42c367dbc1700c50be2589
-SHA1: a11d789c669963fab6d6c2729aa76fc00ad3854f
+MD5sum: 1d01bb8ab3ce82264a21b67fcedcdc31
+SHA1: 8746d843c67725b917eb6ac558e8f4a30d3efd42
 Depends: mobilesubstrate
 Description: Easily and quickly Respring, Reboot, or Shutdown.
 Author: Simalary <harper.chris455@live.com>
-Depiction: https://simalary.github.io/beta/depictions/CenterPower/index.html
-Homepage: https://simalary.github.io/beta/depictions/CenterPower/index.html
+Depiction: https://simalary.github.io/beta/depictions/PowerCenter/index.html
+Homepage: https://simalary.github.io/beta/depictions/PowerCenter/index.html
