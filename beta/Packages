@@ -12,3 +12,18 @@ Description: Easily and quickly Respring, Reboot, or Shutdown.
 Author: Simalary <harper.chris455@live.com>
 Depiction: https://simalary.github.io/beta/depictions/PowerCenter/index.html
 Homepage: https://simalary.github.io/beta/depictions/PowerCenter/index.html
+
+Package: com.simalary.powercenter
+Version: 0.0.2
+Name: PowerCenter
+Section: Tweaks
+Maintainer: Simalary <harper.chris455@live.com>
+Architecture: iphoneos-arm
+Filename: debs/com.simalary.powercenter_0.0.2_iphoneos-arm.deb
+MD5sum: 9ae8c010cc357fdec90806120314444c
+SHA1: 99e525071b776ab4a0f050f0f77e980a323e1a20
+Depends: mobilesubstrate
+Description: Easily and quickly Respring, Reboot, or Shutdown.
+Author: Simalary <harper.chris455@live.com>
+Depiction: https://simalary.github.io/beta/depictions/PowerCenter/index.html
+Homepage: https://simalary.github.io/beta/depictions/PowerCenter/index.html
