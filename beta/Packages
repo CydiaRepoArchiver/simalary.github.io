@@ -6,6 +6,7 @@ Maintainer: Simalary <harper.chris455@live.com>
 Architecture: iphoneos-arm
 Filename: debs/com.simalary.centerpower_0.0.1_iphoneos-arm.deb
 MD5sum: 7537c5a2492a182d8bf6d9d30cbba1b9
+Depends: mobilesubstrate
 Description: Easily and quickly Respring, Reboot, or Shutdown.
 Author: Simalary <harper.chris455@live.com>
 Depiction: https://simalary.github.io/beta/depictions/CenterPower/index.html
