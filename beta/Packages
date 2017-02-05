@@ -11,3 +11,17 @@ Description: Easily and quickly Respring, Reboot, or Shutdown.
 Author: Simalary <harper.chris455@live.com>
 Depiction: https://simalary.github.io/beta/depictions/CenterPower/index.html
 homepage: https://simalary.github.io/beta/depictions/CenterPower/index.html
+
+Package: com.simalary.centerpower
+Version: 0.0.1-2+debug
+Name: CenterPower
+Section: Tweaks
+Maintainer: Simalary <harper.chris455@live.com>
+Architecture: iphoneos-arm
+Filename: debs/com.simalary.centerpower_0.0.1_iphoneos-arm.deb
+MD5sum: 2ddae4061310c3e28e2bae2f29307fe3
+Depends: mobilesubstrate
+Description: Easily and quickly Respring, Reboot, or Shutdown.
+Author: Simalary <harper.chris455@live.com>
+Depiction: https://simalary.github.io/beta/depictions/CenterPower/index.html
+homepage: https://simalary.github.io/beta/depictions/CenterPower/index.html
