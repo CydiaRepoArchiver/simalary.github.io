@@ -7,7 +7,8 @@ Architecture: iphoneos-arm
 Filename: debs//com.simalary.powercenter_0.0.2_iphoneos-arm.deb
 Size: 121360
 Installed-Size: 117
-MD5sum: 9ae8c010cc357fdec90806120314444c
+MD5sum: 1dae6d2760a15010ab0136723a9d635a
 Description: Easily and quickly Respring, Reboot, or Shutdown.
 Name: PowerCenter
 Author: Simalary <harper.chris455@live.com>
+Depiction: https://simalary.github.io/beta/depictions/PowerCenter/index.html
