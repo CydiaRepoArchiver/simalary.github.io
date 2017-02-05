@@ -1,5 +1,6 @@
 Package: com.simalary.centerpower
 Version: 0.0.1
+Name: CenterPower
 Section: Tweaks
 Maintainer: Simalary <harper.chris455@live.com>
 Architecture: iphoneos-arm
