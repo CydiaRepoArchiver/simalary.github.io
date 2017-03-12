@@ -98,7 +98,7 @@ body>header {
   height:44px;
   z-index:10;
   background:#f7f7f7;
-  border-bottom:0.5px solid #c9c9cd
+  border-bottom:1px solid #c9c9cd
 }
 
 body>header h1 {
@@ -124,13 +124,6 @@ ul {
   background:#fff
 }
 
-ulHEADER {
-  margin:5px 0 35px;
-  padding:0;
-  list-style:none;
-  background:none;
-}
-
 menu {
   margin:5px 0 35px;
   padding:0;
@@ -141,21 +134,14 @@ menu {
 ul:after,ul:before {
   content:"";
   display:block;
-  height:0.5px;
+  height:1px;
   background:#c8c7cc
-}
-
-ulHEADER:after,ulHEADER:before {
-  content:"";
-  display:block;
-  height:0.5px;
-  background:none;
 }
 
 menu:after,menu:before {
   content:"";
   display:block;
-  height:0.5px;
+  height:1px;
   background:#c8c7cc
 }
 
@@ -166,25 +152,13 @@ ul:after,ul:before {
 }
 
 ul li {
-  border-bottom:0.5px solid #c8c7cc;
+  border-bottom:1px solid #c8c7cc;
   margin-left:15px;
   padding:13px 15px 13px 0
 }
 
-@media (max-width:0px) {
-ulHEADER:after,ulHEADER:before {
-  display:none
-}
-}
-
-ulHEADER li {
-  border-bottom:0.5px solid #c8c7cc;
-  margin-left:15px;
-  padding:5px 15px 5px 0
-}
-
 menu li {
-  border-bottom:0.5px solid #c8c7cc;
+  border-bottom:1px solid #c8c7cc;
   margin-left:15px;
   padding:13px 15px 13px 0
 }
@@ -197,26 +171,12 @@ ul li:last-child {
   border-bottom:0;
 }
 
-ulHEADER li:last-child {
-  border-bottom:0;
-}
-
 ul .button,ul li [role="link"],ul li p {
   padding:13px 15px;
   margin:-13px -15px
 }
 
-ulHEADER .button,ulHEADER li [role="link"],ulHEADER li p {
-  padding:13px 15px;
-  margin:-13px -15px
-}
-
 ul .button+p,ul li [role="link"]+p,ul li p+p {
-  padding-top:0;
-  margin-top:0
-}
-
-ulHEADER .button+p,ulHEADER li [role="link"]+p,ulHEADER li p+p {
   padding-top:0;
   margin-top:0
 }
@@ -229,27 +189,7 @@ ul .button,ul li [role="link"] {
   z-index:2
 }
 
-ulHEADER .button,ulHEADER li [role="link"] {
-  display:block;
-  color:#007aff;
-  padding-right:30px;
-  position:relative;
-  z-index:2
-}
-
 ul .button:after,ul li [role="link"]:after {
-  content:"";
-  display:block;
-  background:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NSIgaGVpZ2h0PSI5OSI+PHBvbHlnb24gcG9pbnRzPSIzNC43LDQ5LjcgMCw4NC40IDE1LjEsOTkuNSA2NC44LDQ5LjcgNDkuNywzNC43IDE1LjEsMCAwLDE1LjEiIHN0eWxlPSJmaWxsOiNjN2M3Y2MiLz48L3N2Zz4=) 0 0/100% 100%;
-  position:absolute;
-  top:50%;
-  right:15px;
-  width:10px;
-  height:13px;
-  margin-top:-6.5px
-}
-
-ulHEADER .button:after,ulHEADER li [role="link"]:after {
   content:"";
   display:block;
   background:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NSIgaGVpZ2h0PSI5OSI+PHBvbHlnb24gcG9pbnRzPSIzNC43LDQ5LjcgMCw4NC40IDE1LjEsOTkuNSA2NC44LDQ5LjcgNDkuNywzNC43IDE1LjEsMCAwLDE1LjEiIHN0eWxlPSJmaWxsOiNjN2M3Y2MiLz48L3N2Zz4=) 0 0/100% 100%;
@@ -281,28 +221,8 @@ ul+[class="footer"],ul+p {
   margin-top:-25px
 }
 
-ulHEADER li>button {
-  font:inherit;
-  width:100%;
-  text-align:left
-}
-
-ulHEADER li .pull-in {
-  vertical-align:top
-}
-
-@media (max-width:708px) {
-ulHEADER li .pull-in {
-  margin:-13px -15px
-}
-}
-
-ulHEADER+[class="footer"],ululHEADER+p {
-  margin-top:-25px
-}
-
 img {
-  width:100%;
+  max-width:290px
 }
 
 blockquote {
@@ -313,8 +233,7 @@ blockquote {
 }
 
 code {
-  font-family:"Source Code Pro",Monaco,Menlo,Consolas,monospace;
-  color: blue;
+  font-family:"Source Code Pro",Monaco,Menlo,Consolas,monospace
 }
 
 .red {
@@ -364,62 +283,39 @@ footer :last-child {
   margin-right:0
 }
 }</style></head><body>
-<title>PowerCenter</title>
+<title>PowerCenter: Changes</title>
 <body class="depiction">
   <header>
     <h1>PowerCenter</h1>
   </header>
   <main id="content" role="main">
-    <ulHEADER>
-      <li>
-    <center><a><img alt="Logo" src="images/header.png" style="width: 100%"/></a></center>
-      </li>
-    </ulHEADER>
-    <h2 id="information-notes">Description</h2>
+    <h2 id="information-notes">Changelog</h2>
     <ul>
       <li>
-		<center>Easily and quickly Respring, enter SafeMode, Reboot, or Shutdown.</center>
-		<br>
-		Slide up higher when activating Control Center, and you can easily choose to Respring, enter SafeMode, Reboot, or Shutdown.
+      0.1.1 - Fixed the Reboot option. Added French translations.
       </li>
       <li>
-		<center><span class="red"><b>Important Note</b></span></center>
-		<br>
-		PowerCenter is currently in <span class="red"><b>beta</b></span> form. There may be glitches or bugs. Report them below.
+      0.0.7 - Changed the Cancel button class from <code>UIAlertActionStyleDestructive</code> to <code>UIAlertActionStyleCancel</code>.
       </li>
       <li>
-        Current Version: 0.1.1
+      0.0.6 - Changed alert title to "Power Center", and updated Spanish translations.
       </li>
-    </ul>
-    <ul>
       <li>
-        <a href="screenshots.html" target="_blank" class="button">Screenshots</a>
+  		0.0.5 - Added Safemode option.
       </li>
-    </ul>
-	<p class="footer">Preview the tweak.</p>
-    </ul>
-    <h2 id="in-this-version">Recent Changes</h2>
-    <ul>
-    <li>
-    0.1.1 - Fixed the Reboot option. Added French translations.
-    </li>
-    <li>
-      <a href="changes.html" target="_blank" class="button">Changelog</a>
-    </li>
-    </ul>
-    <h2 id="known-issues">Known Issues</h2>
-    <ul>
-      <li>- None.</li>
-    </ul>
-    <h2 id="Thanks">Special Thanks:</h2>
-    <ul>
-      <li>Chapadizzle (help find Safemode arguments) and beta testers.</li>
-    </ul>
-    <ul>
       <li>
-        <a href="mailto:harper.chris455@live.com?&subject=PowerCenter" target="_blank" class="button">Contact</a>
+  		0.0.4 - Added Spanish localization strings.
       </li>
-     </ul>
+      <li>
+  		0.0.3 - Possible fix for the Reboot option.
+      </li>
+      <li>
+  		0.0.2 - Changed threshold of activating PowerCenter.
+      </li>
+  	  <li>
+  		0.0.1 - Initial beta release.
+      </li>
+	</ul>
 	<p class="footer">Send any issues, comments, or suggestions to Simalary (Chris).</p>
   </main>
 </body>
