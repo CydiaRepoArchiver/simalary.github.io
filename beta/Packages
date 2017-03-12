@@ -102,3 +102,18 @@ Description: Easily and quickly Respring, enter SafeMode, Reboot, or Shutdown.
 Name: PowerCenter
 Author: Simalary <harper.chris455@live.com>
 Depiction: https://simalary.github.io/beta/depictions/PowerCenter/index.html
+
+Package: com.simalary.powercenter
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Simalary <harper.chris455@live.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.simalary.powercenter_0.1.2_iphoneos-arm.deb
+Size: 127556
+Installed-Size: 124
+MD5sum: ddeff04334b442940d9df359196c30e7
+Description: Easily and quickly Respring, enter SafeMode, Reboot, or Shutdown.
+Name: PowerCenter
+Author: Simalary <harper.chris455@live.com>
+Depiction: https://simalary.github.io/beta/depictions/PowerCenter/index.html
