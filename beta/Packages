@@ -1,0 +1,133 @@
+Package: com.simalarystudios.nosuggestedappslider
+Version: 1.0
+Section: Tweaks
+Maintainer: Chris Harper // Simalary <19harperc@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//nosuggestedappslider//com.simalarystudios.nosuggestedappslider_1.0_iphoneos-arm.deb
+Size: 4096
+MD5sum: d836f7d4a0e95634a2df6ccc987f765e
+Description: Hide the suggested app icon in the corner of your Lock Screen.
+Name: NoSuggestedAppSlider
+Author: Chris Harper // Simalary <19harperc@gmail.com>
+Depiction: https://simalary.github.io/beta/depictions/NoSuggestedAppSlider/index.html
+
+Package: com.simalary.powercenter
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Simalary <harper.chris455@live.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.simalary.powercenter_0.0.2_iphoneos-arm.deb
+Size: 121360
+Installed-Size: 117
+MD5sum: 1dae6d2760a15010ab0136723a9d635a
+Description: Easily and quickly Respring, Reboot, or Shutdown.
+Name: PowerCenter
+Author: Simalary <harper.chris455@live.com>
+Depiction: https://simalary.github.io/beta/depictions/PowerCenter/index.html
+
+Package: com.simalary.powercenter
+Version: 0.0.3
+Section: Tweaks
+Maintainer: Simalary <harper.chris455@live.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.simalary.powercenter_0.0.3_iphoneos-arm.deb
+Size: 121404
+Installed-Size: 117
+MD5sum: 6c9b66fa26ebb1098a29d75607e2ae5d
+Description: Easily and quickly Respring, Reboot, or Shutdown.
+Name: PowerCenter
+Author: Simalary <harper.chris455@live.com>
+Depiction: https://simalary.github.io/beta/depictions/PowerCenter/index.html
+
+Package: com.simalary.powercenter
+Version: 0.0.4
+Section: Tweaks
+Maintainer: Simalary <harper.chris455@live.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.simalary.powercenter_0.0.4_iphoneos-arm.deb
+Size: 126008
+Installed-Size: 119
+MD5sum: 1fb228fccf0b4d04ceb0e0bcf95e36c8
+Description: Easily and quickly Respring, Reboot, or Shutdown.
+Name: PowerCenter
+Author: Simalary <harper.chris455@live.com>
+Depiction: https://simalary.github.io/beta/depictions/PowerCenter/index.html
+
+Package: com.simalary.powercenter
+Version: 0.0.5
+Section: Tweaks
+Maintainer: Simalary <harper.chris455@live.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.simalary.powercenter_0.0.5_iphoneos-arm.deb
+Size: 126012
+Installed-Size: 119
+MD5sum: a3a2d4cedf6161a838e14feef0a110b7
+Description: Easily and quickly Respring, Reboot, or Shutdown.
+Name: PowerCenter
+Author: Simalary <harper.chris455@live.com>
+Depiction: https://simalary.github.io/beta/depictions/PowerCenter/index.html
+
+Package: com.simalary.powercenter
+Version: 0.0.6
+Section: Tweaks
+Maintainer: Simalary <harper.chris455@live.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.simalary.powercenter_0.0.6_iphoneos-arm.deb
+Size: 126006
+Installed-Size: 119
+MD5sum: 93b9e61926c21998d0a0bb1bde657d0f
+Description: Easily and quickly Respring, Reboot, or Shutdown.
+Name: PowerCenter
+Author: Simalary <harper.chris455@live.com>
+Depiction: https://simalary.github.io/beta/depictions/PowerCenter/index.html
+
+Package: com.simalary.powercenter
+Version: 0.0.7
+Section: Tweaks
+Maintainer: Simalary <harper.chris455@live.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.simalary.powercenter_0.0.7_iphoneos-arm.deb
+Size: 126008
+Installed-Size: 119
+MD5sum: d4c05ee0fbce0049fe39565b82ce8beb
+Description: Easily and quickly Respring, Reboot, or Shutdown.
+Name: PowerCenter
+Author: Simalary <harper.chris455@live.com>
+Depiction: https://simalary.github.io/beta/depictions/PowerCenter/index.html
+
+Package: com.simalary.powercenter
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Simalary <harper.chris455@live.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.simalary.powercenter_0.1.1_iphoneos-arm.deb
+Size: 127544
+Installed-Size: 124
+MD5sum: 6883d3d10d21d9c11bd83ec91ef02e7d
+Description: Easily and quickly Respring, enter SafeMode, Reboot, or Shutdown.
+Name: PowerCenter
+Author: Simalary <harper.chris455@live.com>
+Depiction: https://simalary.github.io/beta/depictions/PowerCenter/index.html
+
+Package: com.simalary.powercenter
+Version: 0.1.2
+Section: Tweaks
+Maintainer: Simalary <harper.chris455@live.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.simalary.powercenter_0.1.2_iphoneos-arm.deb
+Size: 127556
+Installed-Size: 124
+MD5sum: ddeff04334b442940d9df359196c30e7
+Description: Easily and quickly Respring, enter SafeMode, Reboot, or Shutdown.
+Name: PowerCenter
+Author: Simalary <harper.chris455@live.com>
+Depiction: https://simalary.github.io/beta/depictions/PowerCenter/index.html
