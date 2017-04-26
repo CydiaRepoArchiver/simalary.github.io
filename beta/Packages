@@ -4,9 +4,9 @@ Section: Tweaks
 Maintainer: Chris Harper <19harperc@gmail.com>
 Depends: mobilesubstrate, firmware (>= 10.0)
 Architecture: iphoneos-arm
-Filename: debs//nosuggestedappslider//com.simalarystudios.nosuggestedappslider_1.1_iphoneos-arm.deb
+Filename: debs//com.simalarystudios.nosuggestedappslider_1.1_iphoneos-arm.deb
 Size: 4096
-MD5sum: f998d0060c40d94c5d1ff3f428d8dd8a
+MD5sum: 68d3595cc33d12d5309ca6c3fc4d7dbe
 Description: Hide the suggested app icon in the corner of your Lock Screen.
 Name: NoSuggestedAppSlider
 Author: Chris Harper <19harperc@gmail.com>
